@@ -2,8 +2,8 @@
 
 Este proyecto es una implementación basada en los tutoriales proporcionados por 
 
-- [DI](https://www.youtube.com/watch?v=JD_ZL3Bnaog&ab_channel=DIF%E2%84%A2) para el CRUD de la aplicación.
-- 
+- [DIF](https://www.youtube.com/watch?v=JD_ZL3Bnaog&ab_channel=DIF%E2%84%A2) para el CRUD de la aplicación.
+
 El objetivo principal  de este reporitorio es construir una aplicación utilizando Java Spring Boot para el manejo de usuarios.
 
 ## Características
